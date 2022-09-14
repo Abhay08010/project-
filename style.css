@@ -1,0 +1,45 @@
+#video{
+    width: 100%;
+}
+
+body{
+    text-align: center;
+}
+
+.travel_mainDiv{
+    border: 1px solid lightcoral;
+}
+
+.travel_mainDiv img{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head{
+    float: right;
+}
+
+.achivement_text span{
+    color: orange;
+}
+
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 99999;
+    background-color: cyan;
+    width: 50px;
+    display: inline;
+}
